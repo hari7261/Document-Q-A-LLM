@@ -14,7 +14,7 @@ setup(
     description="A Document Q&A Assistant with RAG using Streamlit and Ollama",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/document-qa-assistant",
+    url="https://github.com/hari7261/Document-Q-A-LLM",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -26,7 +26,7 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
-        "Topic :: Scientific/Engineering :: Artificial Intelligence",
+        "Topic :: Scientific/Engineering :: Artificial Intelligence" ,
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     python_requires=">=3.8",

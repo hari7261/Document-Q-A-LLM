@@ -66,10 +66,10 @@ ollama pull gemma3
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/document-qa-assistant.git
+git clone https://github.com/hari7261/Document-Q-A-LLM.git
 
 # Navigate to project directory
-cd document-qa-assistant
+cd Document-Q-A-LLM
 
 # Create virtual environment
 python -m venv venv
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ### Method 3: Install as Package
 ```bash
 # Install directly from GitHub
-pip install git+https://github.com/yourusername/document-qa-assistant.git
+pip install git+https://github.com/hari7261/Document-Q-A-LLM.git
 
 # Or install from local directory
 pip install .

@@ -2,6 +2,8 @@
 
 A powerful Streamlit application that allows you to upload documents and ask questions about them using Retrieval-Augmented Generation (RAG) with local LLM processing.
 
+![Document Q&A Assistant with RAG](/image.png)
+
 ## 🚀 Features
 
 - **Document Upload Support**: PDF, DOCX, and TXT files
@@ -33,8 +35,8 @@ Before running this application, make sure you have:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/document-qa-assistant.git
-   cd document-qa-assistant
+   git clone https://github.com/hari7261/Document-Q-A-LLM.git
+   cd Document-Q-A-LLM
    ```
 
 2. **Create a virtual environment** (recommended):
@@ -70,7 +72,7 @@ Before running this application, make sure you have:
 ## 📁 Project Structure
 
 ```
-document-qa-assistant/
+Document-Q-A-LLM/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── README.md             # Project documentation
@@ -79,6 +81,8 @@ document-qa-assistant/
 ├── setup.py              # Package setup file
 ├── chroma_db/            # ChromaDB storage (created automatically)
 │   └── chroma.sqlite3    # Vector database
+├── .github/              # GitHub templates and workflows
+│   └── ISSUE_TEMPLATE/   # Issue templates
 └── docs/                 # Additional documentation
     ├── installation.md
     ├── usage.md
@@ -171,4 +175,6 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ for the open-source community**
+**Made with ❤️ by [Hariom Kumar](https://github.com/hari7261) for the open-source community**
+
+Repository: [https://github.com/hari7261/Document-Q-A-LLM](https://github.com/hari7261/Document-Q-A-LLM)
